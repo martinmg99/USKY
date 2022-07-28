@@ -1,1 +1,2 @@
 # USKY
+print("hello world")
